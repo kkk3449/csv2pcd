@@ -1,4 +1,6 @@
 # csv2pcd
+this code convert BLK360 Raw .csv (X,Y,Z,R,G,B) data to .pcd visualized data by shift operator.
+
 ### install Python 3.8.10
 ### install pypcd
 ```pip3 install --upgrade git+https://github.com/klintan/pypcd.git```
